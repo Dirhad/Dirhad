@@ -45,9 +45,4 @@ Here are some of the projects I'm most proud of:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/dirhad-h-moussa-73b98225b)  
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-
----
 
