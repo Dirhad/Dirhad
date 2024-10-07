@@ -1,18 +1,17 @@
 # Hello, I'm Dirhad Moussa 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/dirhad-h-moussa-73b98225b) 
-
 ---
 
 ## 🚀 About Me
-I'm a passionate **[Your Role: e.g. Software Developer, Data Scientist, etc.]** with a love for **[mention specific areas of interest like AI, Full-Stack Development, etc.]**. With [X years] of experience in **[specific technologies or fields]**, I enjoy building impactful solutions and collaborating with the open-source community.
-
+[TEKST]
 ---
 
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+
 
 ---
 
@@ -21,6 +20,12 @@ I'm a passionate **[Your Role: e.g. Software Developer, Data Scientist, etc.]** 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&date_format=j%20M%5B%20Y%5D)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+
 
 ---
 
@@ -37,7 +42,7 @@ Here are some of the projects I'm most proud of:
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/dirhad-h-moussa-73b98225b)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)     [LinkedIn](https://linkedin.com/in/dirhad-h-moussa-73b98225b)
 
 ---
 
