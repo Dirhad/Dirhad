@@ -37,9 +37,7 @@ Here are some of the projects I'm most proud of:
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://linkedin.com/in/dirhad-h-moussa-73b98225b)
 
 ---
 
