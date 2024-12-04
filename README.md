@@ -29,7 +29,7 @@
 ## 🚀 Projects
 Here are some of the projects I'm most proud of:
 
-- [Project 1: MusicPlayer](https://github.com/dat310-2024/Eksamens_prosjekt)
+- [MusicPlayer](https://github.com/dat310-2024/Eksamens_prosjekt)
 Create and manage playlists, explore global top songs via Spotify API, and enjoy secure user authentication with Flask.
 Features include dynamic dashboards, password security, profile customization, and SQLite integration.  
 
