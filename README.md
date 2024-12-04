@@ -4,6 +4,7 @@
 
 ## 🚀 About Me
 I’m Dirhad Moussa, a 23-year-old computer engineering student at the University of Stavanger (UIS). Currently in my second year, I’m passionate about exploring technologies, solving problems, and building innovative solutions. My academic journey focuses on areas like software development, security, and systems design.
+When I’m not coding or diving into coursework, you’ll likely find me training or playing football. Staying active helps me maintain balance and fuels my drive for continuous learning and improvement both on and off the field.
 ---
 
 ## 🛠️ Technologies & Tools
