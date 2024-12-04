@@ -33,8 +33,6 @@ Here are some of the projects I'm most proud of:
 - [Project 1: MusicPlayer](https://github.com/dat310-2024/Eksamens_prosjekt)
   Description of what this project is, what tech stack was used, and any notable features.
   
-- [**Project 2: Name**](https://github.com/yourusername/project2)  
-  Brief description of what this project does and its significance.
 
 ---
 
