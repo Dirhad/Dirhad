@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 ![Dirhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dirhad&show_icons=true&theme=transparent)
-
+Create and manage playlists, explore global top songs via Spotify API, and enjoy secure user authentication with Flask. Features include dynamic dashboards, password security, profile customization, and SQLite integration.
 
 ---
 
