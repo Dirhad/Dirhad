@@ -23,7 +23,6 @@
 ## 📊 GitHub Stats
 
 ![Dirhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dirhad&show_icons=true&theme=transparent)
-Create and manage playlists, explore global top songs via Spotify API, and enjoy secure user authentication with Flask. Features include dynamic dashboards, password security, profile customization, and SQLite integration.
 
 ---
 
@@ -31,8 +30,8 @@ Create and manage playlists, explore global top songs via Spotify API, and enjoy
 Here are some of the projects I'm most proud of:
 
 - [Project 1: MusicPlayer](https://github.com/dat310-2024/Eksamens_prosjekt)
-  Description of what this project is, what tech stack was used, and any notable features.
-  
+Create and manage playlists, explore global top songs via Spotify API, and enjoy secure user authentication with Flask.
+Features include dynamic dashboards, password security, profile customization, and SQLite integration.  
 
 ---
 
