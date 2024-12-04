@@ -9,7 +9,9 @@ Academically, I focus on key areas such as:
 - **Software Development**  
 - **Cybersecurity**  
 - **Systems Design**
+  
 When I’m not coding or diving into coursework, you’ll likely find me training or playing football. Staying active helps me maintain balance and fuels my drive for continuous learning and improvement both on and off the field.
+
 ---
 
 ## 🛠️ Technologies & Tools
