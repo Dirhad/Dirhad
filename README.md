@@ -30,14 +30,14 @@
 ## 🚀 Projects
 Here are some of the projects I'm most proud of:
 
-- [Music Player: ](https://github.com/dat310-2024/Eksamens_prosjekt)
-Create and manage playlists, explore global top songs via Spotify API, and enjoy secure user authentication with Flask.
-Features include dynamic dashboards, password security, profile customization, and SQLite integration.  
+- **[Music Player](https://github.com/dat310-2024/Eksamens_prosjekt)**  
+  A web application that allows users to create and manage playlists, explore global top songs via Spotify API, and securely log in to a personalized dashboard. Key features include dynamic dashboards, password security, profile customization, and SQLite integration.
 
 ---
 
 ## 📫 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/dirhad-h-moussa-73b98225b)  
+
 
 
