@@ -29,12 +29,6 @@ When I’m not coding or diving into coursework, you’ll likely find me trainin
 
 ---
 
-## 📊 GitHub Stats
-
-![Dirhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dirhad&show_icons=true&theme=transparent)
-
----
-
 ## 🚀 Projects
 Here are some of the projects I'm most proud of:
 
